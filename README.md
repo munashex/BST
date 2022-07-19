@@ -6,6 +6,6 @@ Binary search tree
 -insertion 
 -find  
 -BFS --> breadth First Search 
-DFS --> preOrder
+DFS --> preOrder, postOrder, inOrder
 Logarithmic time complexity
 
