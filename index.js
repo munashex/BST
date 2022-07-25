@@ -12,6 +12,7 @@ class BinarySearchTree{
         this.root = null
     }
 
+    //first insert method 
     insert(val) {
         let newNode = new Node(val)
         if(!this.root) {
@@ -38,6 +39,8 @@ class BinarySearchTree{
             }
         }
     }
+    
+    
     
     
     find(val){
